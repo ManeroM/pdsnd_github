@@ -125,7 +125,8 @@ def main():
         city, month, day = get_filters()
         #This is a dataFrame that holds the city, month and day that the user requests
         df = load_data(city, month, day)
-
+        
+        #These functions provide statistics based on the data in the dataframe (df)
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
