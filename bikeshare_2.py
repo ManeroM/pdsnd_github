@@ -27,6 +27,8 @@ def get_filters():
 
     print('-'*40)
     return city, month, day
+    
+    
 
 
 def load_data(city, month, day):
@@ -121,6 +123,7 @@ def user_stats(df):
 def main():
     while True:
         city, month, day = get_filters()
+        #This is a dataFrame that holds the city, month and day that the user requests
         df = load_data(city, month, day)
 
         time_stats(df)
