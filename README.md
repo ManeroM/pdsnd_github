@@ -10,8 +10,11 @@ BikeShare_2.py
 This project was created as a sample for Udacity Data analyst course
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Repo is forked from Udacity's repository https://github.com/udacity/pdsnd_github
 
