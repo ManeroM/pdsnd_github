@@ -7,7 +7,7 @@ Downloaded 11/25/22 from Udacity.
 BikeShare_2.py
 
 ### Description
-Describe what your project is about and what it does
+This project was created as a sample for Udacity Data analyst course
 
 ### Files used
 Include the files used
